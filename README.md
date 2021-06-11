@@ -1,3 +1,4 @@
+![](https://github.com/D4vc-198/D4vc-198/blob/main/DValdez.png)
 ### Hi there 👋
 
 <!--

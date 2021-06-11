@@ -4,7 +4,7 @@
 
 
 <!--- <img align="right" alt="GIF" src="https://github.com/D4vc-198/D4vc-198/blob/main/Github_White.png?raw=true" width="900" height="450" /> -->
-<img align="right" src="https://github.com/D4vc-198/D4vc-198/blob/main/Github_White.png" width="640" height="320"/>
+<img align="right" src="https://github.com/D4vc-198/D4vc-198/blob/main/Github_Image_DValdez.png" width="350" height="300"/>
 
 ## I am a frontend programmer and indie video game developer.
 

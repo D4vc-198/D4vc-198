@@ -11,6 +11,12 @@
 - :video_game: I'm currently working on my second Mobile Video Game.
 - :books: I’m currently learning Angular and Unity
 - 💬 Ask me about ... Anything
+
+
+### Talk to me, I'm a bit interesting:
+
+[![D4vc-198 github stats](https://github-readme-stats.vercel.app/api?username=D4vc-198&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **D4vc-198/D4vc-198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

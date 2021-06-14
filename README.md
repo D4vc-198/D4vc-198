@@ -4,7 +4,9 @@
   FrontEnd programmer and videogame Developer</b> 
 </p>
 <p align='center'>
-  <a href="mailto:contactodiegoavc@gmail.com?subject=Hola%20Diego"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/developer?id=Diego+A.+Valdez"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/D4vc198"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    <a/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:contactodiegoavc@gmail.com?subject=Hola%20Diego"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 <hr>

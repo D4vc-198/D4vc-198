@@ -1,17 +1,18 @@
-<!-- ![](https://github.com/D4vc-198/D4vc-198/blob/main/DValdez.png) -->
-<div align="center">
-<h2> <𝙷𝚎𝚕𝚕𝚘 𝚆𝚘𝚛𝚕𝚍/>,  𝘐'𝘮 𝘋𝘪𝘦𝘨𝘰 𝘝𝘢𝘭𝘥𝘦𝘻 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-  <br>
-  :computer:𝘍𝘳𝘰𝘯𝘵𝘌𝘯𝘥 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳 𝘢𝘯𝘥 𝘝𝘪𝘥𝘦𝘰𝘨𝘢𝘮𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳:computer:
+<h1 align='center'> Hi there 👋, I'm Diego👨‍💻 </h1>
 
-  <p align='center'>
-    <br>
+<p align='center'>
+  FrontEnd programmer and videogame Developer</b> 
+</p>
+<p align='center'>
   <a href="mailto:contactodiegoavc@gmail.com?subject=Hola%20Diego"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-</h2>
-</div>
+<hr>
 
+<!-- <p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=D4vc-198&style=for-the-badge&logo=appveyor"></a>
+</p>
+ -->
 <!--- <img align="right" alt="GIF" src="https://github.com/D4vc-198/D4vc-198/blob/main/Github_White.png?raw=true" width="900" height="450" /> -->
 <img align="right" src="https://github.com/D4vc-198/D4vc-198/blob/main/Github_Image_DValdez.png" width="350" height="300"/>
 

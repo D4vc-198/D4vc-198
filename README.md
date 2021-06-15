@@ -13,11 +13,16 @@
 
 <img align="right" src="https://github.com/D4vc-198/D4vc-198/blob/main/Github_Image_DValdez.png" width="350" height="300"/>
  
-- :computer: I'm currently working on my second Mobile Video Game.
-- :books: I’m currently learning Angular and Unity
+- ✍  I'm currently working on my second Mobile Video Game.
 - :link: You can find my games here [Google Play]
 - :video_game: Mobile VideoGame #1 [Animal Jump]
 - 💬 Ask me about ... Anything
+
+### :books: I'm currently learning :books: 
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+</p>
+<hr>
 
 ### Technologies, Languages, Frameworks and others
 <p>

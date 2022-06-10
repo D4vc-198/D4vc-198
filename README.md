@@ -8,6 +8,10 @@
   <a href="https://www.facebook.com/D4vc198"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     <a/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:contactodiegoavc@gmail.com?subject=Hola%20Diego"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/69604964/173131666-8d2d5daf-7cf3-499b-a985-26313d144c92.png" width="100em">
+  <img src="https://user-images.githubusercontent.com/69604964/173132130-d7a2f3bb-0de7-40b0-b4d1-4e9e79af4715.png" width="100em">
+</div>
 <hr>
 
 
@@ -37,10 +41,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=D4vc-198&show_icons=true&theme=react&" />
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=D4vc-198&theme=react&layout=compact&exclude_lang=java+r" />
 </a>
-  <div align="center">
-  <img src="https://user-images.githubusercontent.com/69604964/173131666-8d2d5daf-7cf3-499b-a985-26313d144c92.png" width="150em">
-  <img src="https://user-images.githubusercontent.com/69604964/173132130-d7a2f3bb-0de7-40b0-b4d1-4e9e79af4715.png" width="150em">
-</div>
 </p>
 
 

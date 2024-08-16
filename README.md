@@ -2,7 +2,7 @@
 <h1 align='center'> Hi there 👋, I'm Diego👨‍💻 </h1>
 
 <p align='center'>
-  FrontEnd programmer and videogame Developer</b> 
+  FrontEnd Developer</b> 
 </p>
 <p align='center'>
   <a href="https://play.google.com/store/apps/developer?id=Diego+A.+Valdez"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;

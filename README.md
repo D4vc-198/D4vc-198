@@ -21,8 +21,7 @@
 <img align="right" src="https://github.com/D4vc-198/D4vc-198/blob/main/Github_Image_DValdez.png" width="350" height="300"/>
  
 - ✍  I am currently taking a Meta and AWS professional certificate
-- :link: You can find my games here [Google Play]
-- :video_game: Mobile VideoGame #1 [Animal Jump]
+- :link: You can find my projects here [Repositories](https://github.com/D4vc-198?tab=repositories)
 - 💬 Ask me about ... Anything
 <hr>
 

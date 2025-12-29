@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/d4vc198.png" alt="Your Image Badge" />
 </p>
 <hr>
 
@@ -58,7 +57,8 @@
 <hr>
 <p align="center">
 <a href="https://github.com/D4vc-198">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=D4vc-198&show_icons=true&theme=react&" />
+  <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=D4vc-198&show_icons=true&theme=react&" />-->
+  <img height="auto" src="https://tryhackme-badges.s3.amazonaws.com/d4vc198.png" alt="TryHackme Badge D4vc-198" />
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=D4vc-198&theme=react&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
